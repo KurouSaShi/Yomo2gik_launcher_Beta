@@ -5,7 +5,7 @@
   "game_version": "1.0.0",
 
   "zip": {
-    "download_url": "https://github.com/KurouSaShi/Yomo2gik_launcher_Beta/releases/download/v1.0.0/game_v1.0.0.zip",
+    "download_url": "https://github.com/KurouSaShi/Yomo2gik_launcher_Beta/releases/download/test_version/Yomo2gik.zip",
     "sha256": "0BFA81461F2B5B1D27FFBF1415E04ECB0B3003EF790FF9A6A1480DA8079E3BBC",
     "size": 52428800,
     "extract_to": "yomo2gik"
