@@ -1,24 +1,39 @@
 {
   "launcher_version": "1.0.0",
-  "launcher_download_url": "https://raw.githubusercontent.com/KurouSaShi/Yomo2gik_launcher_Beta/main/launcher.py",
+  "launcher_exe_url": "https://raw.githubusercontent.com/KurouSaShi/Yomo2gik_launcher_Beta/main/launcher.exe",
 
   "game_version": "1.0.0",
-
-  "zip": {
-    "download_url": "https://github.com/KurouSaShi/Yomo2gik_launcher_Beta/releases/download/test_version/Yomo2gik.zip",
-    "sha256": "0BFA81461F2B5B1D27FFBF1415E04ECB0B3003EF790FF9A6A1480DA8079E3BBC",
-    "size": 52428800,
-    "extract_to": "yomo2gik"
-  },
-
   "patch_notes": [
     {
       "version": "1.0.0",
       "date": "2025-04-01",
       "changes": [
-        "初回リリース",
-        "マルチプレイヤー対応",
-        "新マップ「雪山」追加"
+        "初回リリース"
+      ]
+    }
+  ],
+
+  "files": [
+    {
+      "path": "Yomo2gik/Yomo2gik.exe",
+      "sha256": "PUT_SHA256_HERE",
+      "size": 1024000,
+      "chunked": false,
+      "download_url": "https://raw.githubusercontent.com/KurouSaShi/Yomo2gik_launcher_Beta/main/Yomo2gik/Yomo2gik.exe"
+    },
+    {
+      "path": "Yomo2gik/Yomo2gik_Data/resources.resource",
+      "sha256": "PUT_SHA256_HERE",
+      "size": 279756800,
+      "chunked": true,
+      "chunks": [
+        {
+          "index": 1,
+          "filename": "resources.resource.part001",
+          "sha256": "PUT_SHA256_HERE",
+          "size": 25165824,
+          "download_url": "https://raw.githubusercontent.com/KurouSaShi/Yomo2gik_launcher_Beta/main/Yomo2gik/Yomo2gik_Data/resources.resource.part001"
+        }
       ]
     }
   ]
