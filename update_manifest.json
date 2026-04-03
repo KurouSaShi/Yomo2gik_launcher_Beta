@@ -1,41 +1,14 @@
 {
-  "launcher_version": "1.0.0",
-  "launcher_py_url": "https://raw.githubusercontent.com/KurouSaShi/Yomo2gik_launcher_Beta/main/launcher.py",
-  "merge_py_url": "https://raw.githubusercontent.com/KurouSaShi/Yomo2gik_launcher_Beta/main/merge_chunks.py",
-
   "game_version": "1.0.0",
+  "manifest_url": "https://raw.githubusercontent.com/KurouSaShi/Yomo2gik_launcher_Beta/main/update_manifest.json",
+
   "patch_notes": [
     {
       "version": "1.0.0",
       "date": "2025-04-01",
-      "changes": [
-        "初回リリース"
-      ]
+      "notes": "## v1.0.0\nエイプリールフールアップデート"
     }
   ],
 
-  "files": [
-    {
-      "path": "Yomo2gik/Yomo2gik.exe",
-      "sha256": "PUT_SHA256_HERE",
-      "size": 1024000,
-      "chunked": false,
-      "download_url": "https://raw.githubusercontent.com/KurouSaShi/Yomo2gik_launcher_Beta/main/Yomo2gik/Yomo2gik.exe"
-    },
-    {
-      "path": "Yomo2gik/Yomo2gik_Data/resources.resource",
-      "sha256": "PUT_SHA256_HERE",
-      "size": 279756800,
-      "chunked": true,
-      "chunks": [
-        {
-          "index": 1,
-          "filename": "resources.resource.part001",
-          "sha256": "PUT_SHA256_HERE",
-          "size": 25165824,
-          "download_url": "https://raw.githubusercontent.com/KurouSaShi/Yomo2gik_launcher_Beta/main/Yomo2gik/Yomo2gik_Data/resources.resource.part001"
-        }
-      ]
-    }
-  ]
+  "download_url": "https://github.com/KurouSaShi/Yomo2gik_launcher_Beta/releases/download/test_version/Yomo2gik.zip"
 }
