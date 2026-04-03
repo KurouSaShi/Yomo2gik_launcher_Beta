@@ -6,9 +6,9 @@
     {
       "version": "1.0.0",
       "date": "2025-04-01",
-      "notes": "## v1.0.0\nエイプリールフールアップデート"
+      "notes": "## v1.0.0\n**初回リリース**\n- ゲーム本体の初回配布"
     }
   ],
 
-  "download_url": "https://github.com/KurouSaShi/Yomo2gik_launcher_Beta/releases/download/test_version/Yomo2gik.zip"
+  "download_url": "https://github.com/KurouSaShi/Yomo2gik_launcher_Beta/releases/download/v1.0.0/Yomo2gik.zip"
 }
