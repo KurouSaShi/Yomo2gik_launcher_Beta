@@ -1,10 +1,10 @@
 {
-  "game_version": "1.0.1",
+  "game_version": "1.0.2",
   "manifest_url": "https://raw.githubusercontent.com/KurouSaShi/Yomo2gik_launcher_Beta/main/update_manifest.json",
 
   "patch_notes": [
     {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "date": "2025-04-01",
       "notes": "## v1.0.0\n**初回リリース**\n- ゲーム本体の初回配布"
     }
