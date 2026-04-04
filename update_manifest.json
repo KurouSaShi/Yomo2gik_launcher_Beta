@@ -1,5 +1,16 @@
 {
-  "game_version": "0.0.0",
-  "download_url": "https://github.com/KurouSaShi/Yomo2gik_launcher_Beta/releases/download/test_version/Yomo2gik.zip",
-  "patch_notes": [あああああ]
+  "game_version": "1.0.0",
+  "download_url": "https://github.com/.../releases/download/v1.0.0/Yomo2gik.zip",
+  "patch_notes": [
+    {
+      "version": "1.0.0",
+      "date": "2025-05-01",
+      "notes": "## v1.0.0\n**バグ修正**\n- クラッシュする問題を修正"
+    },
+    {
+      "version": "0.0.0",
+      "date": "2025-04-01",
+      "notes": "## v0.0.0\n**テストリリース**\n- 初回配布"
+    }
+  ]
 }
